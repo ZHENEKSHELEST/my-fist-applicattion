@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">My Fist Proga
+    </string>
+    <string name="button1">Далее
+    </string>
+    <string name="checkbox">CheckBox</string>
+    <string name="button" translatable="true">Далее</string>
 </resources>
